@@ -21,8 +21,8 @@ The application lets you do the following:
 
 
 # Links
-[Dexie.js](http://dexie.org)
-[Live demo](http://vitaly.apphb.com/recipeApp/#/)
+1. [Dexie.js](http://dexie.org).
+2. [Live demo](http://vitaly.apphb.com/recipeApp/#/).
 
 
 

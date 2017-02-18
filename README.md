@@ -4,10 +4,10 @@ sorted by date of their creation. The application consists only of client (JavaS
 
 # Features
 The application lets you to do following:
-1. Display list of recipes (date created, description)
-2. Add a new recipe
-3. Modify existed recipe
-4. View all previous recipe versions
+* Display list of recipes (date created, description)
+* Add a new recipe
+* Modify existed recipe
+* View all previous recipe versions
 
 # Technologies
 * Angular.js v1.3.15

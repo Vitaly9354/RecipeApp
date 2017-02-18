@@ -1,0 +1,47 @@
+.recipe-item {
+    padding: 5px 0;
+    border-radius: 3px;
+    color: inherit;
+    margin: 15px 0;
+    box-shadow: 0 0 2px #000;
+    display: block;
+}
+
+.recipe-item p {
+    height: 120px;
+    padding: 0 5px;
+}
+
+.recipe-item h5 {
+    padding: 0 5px;
+}
+
+.recipe-item:hover {
+    box-shadow: 0 0 8px #333;
+    color: inherit;
+    text-decoration: none;
+}
+
+.recipe-item-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#ng-view {
+    margin-top: 70px;
+}
+
+.add-recipe-btn {
+    margin-top: 10px;
+}
+
+h3 {
+    margin-bottom: 50px;
+}
+

@@ -3,7 +3,7 @@ This is a simple Cookbook JavaScript application. The application is basically a
 sorted by date of their creation. The application consists only of client (JavaScript) part. You don't have to set-up any RDBMS systems, all data is stored in browser.
 
 # Features
-The application lets you to do the following:
+The application lets you do the following:
 * Display list of recipes (date created, description)
 * Add a new recipe
 * Modify existed recipe
@@ -22,6 +22,7 @@ The application lets you to do the following:
 
 # Links
 [Dexie.js](http://dexie.org)
+[Live demo](http://vitaly.apphb.com/recipeApp/#/)
 
 
 
